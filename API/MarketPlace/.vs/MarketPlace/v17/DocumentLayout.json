@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Master\\Desktop\\MarketPlace\\API\\MarketPlace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF2160-9C6B-4E7E-A024-0606BA3CCB28}|MarketPlace\\MarketPlace.csproj|c:\\users\\master\\desktop\\marketplace\\api\\marketplace\\marketplace\\dtos\\jobdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF2160-9C6B-4E7E-A024-0606BA3CCB28}|MarketPlace\\MarketPlace.csproj|solutionrelative:marketplace\\dtos\\jobdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF2160-9C6B-4E7E-A024-0606BA3CCB28}|MarketPlace\\MarketPlace.csproj|c:\\users\\master\\desktop\\marketplace\\api\\marketplace\\marketplace\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF2160-9C6B-4E7E-A024-0606BA3CCB28}|MarketPlace\\MarketPlace.csproj|solutionrelative:marketplace\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF2160-9C6B-4E7E-A024-0606BA3CCB28}|MarketPlace\\MarketPlace.csproj|c:\\users\\master\\desktop\\marketplace\\api\\marketplace\\marketplace\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF2160-9C6B-4E7E-A024-0606BA3CCB28}|MarketPlace\\MarketPlace.csproj|solutionrelative:marketplace\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF2160-9C6B-4E7E-A024-0606BA3CCB28}|MarketPlace\\MarketPlace.csproj|c:\\users\\master\\desktop\\marketplace\\api\\marketplace\\marketplace\\dtos\\biddtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF2160-9C6B-4E7E-A024-0606BA3CCB28}|MarketPlace\\MarketPlace.csproj|solutionrelative:marketplace\\dtos\\biddtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF2160-9C6B-4E7E-A024-0606BA3CCB28}|MarketPlace\\MarketPlace.csproj|c:\\users\\master\\desktop\\marketplace\\api\\marketplace\\marketplace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF2160-9C6B-4E7E-A024-0606BA3CCB28}|MarketPlace\\MarketPlace.csproj|solutionrelative:marketplace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF2160-9C6B-4E7E-A024-0606BA3CCB28}|MarketPlace\\MarketPlace.csproj|c:\\users\\master\\desktop\\marketplace\\api\\marketplace\\marketplace\\data\\marketplacedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF2160-9C6B-4E7E-A024-0606BA3CCB28}|MarketPlace\\MarketPlace.csproj|solutionrelative:marketplace\\data\\marketplacedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF2160-9C6B-4E7E-A024-0606BA3CCB28}|MarketPlace\\MarketPlace.csproj|c:\\users\\master\\desktop\\marketplace\\api\\marketplace\\marketplace\\models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF2160-9C6B-4E7E-A024-0606BA3CCB28}|MarketPlace\\MarketPlace.csproj|solutionrelative:marketplace\\models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF2160-9C6B-4E7E-A024-0606BA3CCB28}|MarketPlace\\MarketPlace.csproj|c:\\users\\master\\desktop\\marketplace\\api\\marketplace\\marketplace\\models\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF2160-9C6B-4E7E-A024-0606BA3CCB28}|MarketPlace\\MarketPlace.csproj|solutionrelative:marketplace\\models\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEAF2160-9C6B-4E7E-A024-0606BA3CCB28}|MarketPlace\\MarketPlace.csproj|c:\\users\\master\\desktop\\marketplace\\api\\marketplace\\marketplace\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEAF2160-9C6B-4E7E-A024-0606BA3CCB28}|MarketPlace\\MarketPlace.csproj|solutionrelative:marketplace\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MarketplaceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\MarketPlace\\API\\MarketPlace\\MarketPlace\\Data\\MarketplaceDbContext.cs",
+              "RelativeDocumentMoniker": "MarketPlace\\Data\\MarketplaceDbContext.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\MarketPlace\\API\\MarketPlace\\MarketPlace\\Data\\MarketplaceDbContext.cs",
+              "RelativeToolTip": "MarketPlace\\Data\\MarketplaceDbContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwCgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:27:38.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\MarketPlace\\API\\MarketPlace\\MarketPlace\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MarketPlace\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\MarketPlace\\API\\MarketPlace\\MarketPlace\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MarketPlace\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:59:06.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\MarketPlace\\API\\MarketPlace\\MarketPlace\\Controllers\\JobsController.cs",
+              "RelativeDocumentMoniker": "MarketPlace\\Controllers\\JobsController.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\MarketPlace\\API\\MarketPlace\\MarketPlace\\Controllers\\JobsController.cs",
+              "RelativeToolTip": "MarketPlace\\Controllers\\JobsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T14:17:03.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\MarketPlace\\API\\MarketPlace\\MarketPlace\\Program.cs",
+              "RelativeDocumentMoniker": "MarketPlace\\Program.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\MarketPlace\\API\\MarketPlace\\MarketPlace\\Program.cs",
+              "RelativeToolTip": "MarketPlace\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:30:00.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\MarketPlace\\API\\MarketPlace\\MarketPlace\\Dtos\\JobDtos.cs",
+              "RelativeDocumentMoniker": "MarketPlace\\Dtos\\JobDtos.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\MarketPlace\\API\\MarketPlace\\MarketPlace\\Dtos\\JobDtos.cs",
+              "RelativeToolTip": "MarketPlace\\Dtos\\JobDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T15:30:34.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JobPosting.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\MarketPlace\\API\\MarketPlace\\MarketPlace\\Models\\JobPosting.cs",
+              "RelativeDocumentMoniker": "MarketPlace\\Models\\JobPosting.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\MarketPlace\\API\\MarketPlace\\MarketPlace\\Models\\JobPosting.cs",
+              "RelativeToolTip": "MarketPlace\\Models\\JobPosting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:14:13.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bid.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\MarketPlace\\API\\MarketPlace\\MarketPlace\\Models\\Bid.cs",
+              "RelativeDocumentMoniker": "MarketPlace\\Models\\Bid.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\MarketPlace\\API\\MarketPlace\\MarketPlace\\Models\\Bid.cs",
+              "RelativeToolTip": "MarketPlace\\Models\\Bid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:20:26.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BidDtos.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\MarketPlace\\API\\MarketPlace\\MarketPlace\\Dtos\\BidDtos.cs",
+              "RelativeDocumentMoniker": "MarketPlace\\Dtos\\BidDtos.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\MarketPlace\\API\\MarketPlace\\MarketPlace\\Dtos\\BidDtos.cs",
+              "RelativeToolTip": "MarketPlace\\Dtos\\BidDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T14:21:06.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Master\\Desktop\\MarketPlace\\API\\MarketPlace\\MarketPlace\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MarketPlace\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Master\\Desktop\\MarketPlace\\API\\MarketPlace\\MarketPlace\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MarketPlace\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:10:43.229Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
